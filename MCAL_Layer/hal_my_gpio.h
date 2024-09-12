@@ -9,6 +9,9 @@
 #define	HAL_MY_GPIO_H
 
 
+#include <../proc/pic18f4620.h>
+#include "mcal_std_types.h"
+
 
 #endif	/* HAL_MY_GPIO_H */
 
