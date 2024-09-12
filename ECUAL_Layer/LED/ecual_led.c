@@ -1,6 +1,6 @@
 
 /* 
- * File:   application.c
+ * File:   ecual_led.c
  * Author: Mostafa Mohamed Kamal
  *
  * Created on September 12, 2024, 10:56 PM
