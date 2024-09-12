@@ -1,8 +1,8 @@
 /* 
  * File:   ecual_led.h
- * Author: Mostafa Mohamed Kamal
+ * Author: ssmm
  *
- * Created on September 13, 2024, 12:16 AM
+ * Created on September 13, 2024, 12:20 AM
  */
 
 #ifndef ECUAL_LED_H
