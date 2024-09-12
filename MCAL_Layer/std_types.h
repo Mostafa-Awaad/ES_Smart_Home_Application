@@ -1,6 +1,6 @@
 /* 
  * File:   std_types.h
- * Author: ssmm
+ * Author: Mostafa Mohamed Kamal
  *
  * Created on September 12, 2024, 10:38 PM
  */
@@ -8,16 +8,8 @@
 #ifndef STD_TYPES_H
 #define	STD_TYPES_H
 
-#ifdef	__cplusplus
-extern "C" {
-#endif
-
-
-
-
-#ifdef	__cplusplus
-}
-#endif
+#include <stdio.h>
+#include <stdlib.h>
 
 #endif	/* STD_TYPES_H */
 
