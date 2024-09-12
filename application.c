@@ -1,6 +1,6 @@
 /* 
  * File:   application.c
- * Author: ssmm
+ * Author: Mostafa Mohamed Kamal
  *
  * Created on September 12, 2024, 5:17 PM
  */
@@ -8,10 +8,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
- * 
- */
-int main(int argc, char** argv) {
+
+int main() {
 
     return (EXIT_SUCCESS);
 }
