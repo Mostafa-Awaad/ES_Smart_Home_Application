@@ -1,14 +1,23 @@
 /* 
  * File:   ecual_led.h
- * Author: Mostafa Mohamed Kamal
+ * Author: ssmm
  *
- * Created on September 12, 2024, 10:55 PM
+ * Created on September 12, 2024, 11:22 PM
  */
 
 #ifndef ECUAL_LED_H
 #define	ECUAL_LED_H
 
-#include "../../MCAL_Layer/hal_my_gpio.h"
+#ifdef	__cplusplus
+extern "C" {
+#endif
+
+
+
+
+#ifdef	__cplusplus
+}
+#endif
 
 #endif	/* ECUAL_LED_H */
 
