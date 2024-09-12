@@ -5,9 +5,9 @@
  * Created on September 12, 2024, 5:17 PM
  */
 
-#include <stdio.h>
-#include <stdlib.h>
 
+
+#include "application.h"
 
 int main() {
 
