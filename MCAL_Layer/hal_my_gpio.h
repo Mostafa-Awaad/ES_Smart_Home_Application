@@ -8,16 +8,7 @@
 #ifndef HAL_MY_GPIO_H
 #define	HAL_MY_GPIO_H
 
-#ifdef	__cplusplus
-extern "C" {
-#endif
 
-
-
-
-#ifdef	__cplusplus
-}
-#endif
 
 #endif	/* HAL_MY_GPIO_H */
 
