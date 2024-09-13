@@ -1,4 +1,4 @@
-# Smart Home System using PIC18F4620
+# Final Project
 
 ## Description
 This project is a Smart Home System built for the PIC18F4620 microcontroller. It implements a software-layered architecture and includes modules for controlling home appliances using LEDs, GPIO management, and configuration of MCU settings. The project is designed to demonstrate embedded system concepts in a home automation context.
